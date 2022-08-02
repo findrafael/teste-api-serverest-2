@@ -1,0 +1,20 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "video": false,
+    "viewportWidth": 1600,
+    "viewportHeight": 900,
+    "chromeWebSecurity": false,
+    "numTestsKeptInMemory": 50,
+    "screenshotsFolder": "reports/screenshots",
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+        "reporterEnabled": "mochawesome",
+        "mochawesomeReporterOptions": {
+            "reportDir": "cypress/reports/mocha",
+            "quite": true,
+            "overwrite": false,
+            "html": false,
+            "json": true
+        }
+    }
+}
