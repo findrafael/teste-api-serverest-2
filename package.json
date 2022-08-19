@@ -1,5 +1,5 @@
 {
-  "name": "logicalforest_sprint6_rafael_luna_compass",
+  "name": "teste-api-serverest_rafael_luna",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -17,15 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/findrafael/LogicalForest_Sprint6_Rafael_Luna_Compass.git"
+    "url": ""
   },
   "keywords": [],
   "author": "Rafael Luna",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/findrafael/LogicalForest_Sprint6_Rafael_Luna_Compass/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/findrafael/LogicalForest_Sprint6_Rafael_Luna_Compass#readme",
+  "homepage": "",
   "devDependencies": {
     "ajv": "^8.11.0",
     "cypress": "^9.7.0",
